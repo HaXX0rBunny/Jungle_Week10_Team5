@@ -2,12 +2,12 @@
   "Actors" : [{
       "ClassName" : "AStaticMeshActor",
       "NonSceneComponents" : [],
-      "ObjectName" : "AStaticMeshActor_1125",
-      "PrimitiveKey" : "12757",
+      "ObjectName" : "AStaticMeshActor_1121",
+      "PrimitiveKey" : "13712",
       "RootComponent" : {
         "Children" : [],
         "ClassName" : "UStaticMeshComponent",
-        "ObjectName" : "UStaticMeshComponent_2254",
+        "ObjectName" : "UStaticMeshComponent_2246",
         "Properties" : {
           "Cast Shadow" : true,
           "Generates Overlap Event" : 2,
@@ -23,17 +23,17 @@
           "bTickEnable" : true
         }
       },
-      "UUID" : 12757,
+      "UUID" : 13712,
       "bVisible" : true
     }, {
       "ClassName" : "AStaticMeshActor",
       "NonSceneComponents" : [],
-      "ObjectName" : "AStaticMeshActor_1126",
-      "PrimitiveKey" : "12760",
+      "ObjectName" : "AStaticMeshActor_1122",
+      "PrimitiveKey" : "13715",
       "RootComponent" : {
         "Children" : [],
         "ClassName" : "UStaticMeshComponent",
-        "ObjectName" : "UStaticMeshComponent_2255",
+        "ObjectName" : "UStaticMeshComponent_2247",
         "Properties" : {
           "Cast Shadow" : true,
           "Generates Overlap Event" : 2,
@@ -49,13 +49,13 @@
           "bTickEnable" : true
         }
       },
-      "UUID" : 12760,
+      "UUID" : 13715,
       "bVisible" : true
     }, {
       "ClassName" : "AStaticMeshActor",
       "NonSceneComponents" : [{
           "ClassName" : "UInterpToMovementComponent",
-          "ObjectName" : "UInterpToMovementComponent_2",
+          "ObjectName" : "UInterpToMovementComponent_1",
           "Properties" : {
             "Auto Activate" : true,
             "Auto Register Updated" : true,
@@ -68,12 +68,12 @@
             "bTickEnable" : true
           }
         }],
-      "ObjectName" : "AStaticMeshActor_1127",
-      "PrimitiveKey" : "12764",
+      "ObjectName" : "AStaticMeshActor_1123",
+      "PrimitiveKey" : "13719",
       "RootComponent" : {
         "Children" : [],
         "ClassName" : "UStaticMeshComponent",
-        "ObjectName" : "UStaticMeshComponent_2256",
+        "ObjectName" : "UStaticMeshComponent_2248",
         "Properties" : {
           "Cast Shadow" : true,
           "Generates Overlap Event" : 2,
@@ -89,13 +89,13 @@
           "bTickEnable" : true
         }
       },
-      "UUID" : 12764,
+      "UUID" : 13719,
       "bVisible" : true
     }, {
       "ClassName" : "AStaticMeshActor",
       "NonSceneComponents" : [{
           "ClassName" : "URotatingMovementComponent",
-          "ObjectName" : "URotatingMovementComponent_3",
+          "ObjectName" : "URotatingMovementComponent_2",
           "Properties" : {
             "Auto Register Updated" : true,
             "Pivot Translation" : [0.000000, 0.000000, 0.000000],
@@ -106,12 +106,12 @@
             "bTickEnable" : true
           }
         }],
-      "ObjectName" : "AStaticMeshActor_1128",
-      "PrimitiveKey" : "12768",
+      "ObjectName" : "AStaticMeshActor_1124",
+      "PrimitiveKey" : "13723",
       "RootComponent" : {
         "Children" : [],
         "ClassName" : "UStaticMeshComponent",
-        "ObjectName" : "UStaticMeshComponent_2257",
+        "ObjectName" : "UStaticMeshComponent_2249",
         "Properties" : {
           "Cast Shadow" : true,
           "Generates Overlap Event" : 2,
@@ -127,13 +127,13 @@
           "bTickEnable" : true
         }
       },
-      "UUID" : 12768,
+      "UUID" : 13723,
       "bVisible" : true
     }, {
       "ClassName" : "ADirectionalLightActor",
       "NonSceneComponents" : [{
           "ClassName" : "UPendulumMovementComponent",
-          "ObjectName" : "UPendulumMovementComponent_6",
+          "ObjectName" : "UPendulumMovementComponent_3",
           "Properties" : {
             "Amplitude (deg)" : 30.000000,
             "Angle Offset (deg)" : 0.000000,
@@ -146,11 +146,11 @@
             "bTickEnable" : true
           }
         }],
-      "ObjectName" : "ADirectionalLightActor_4",
+      "ObjectName" : "ADirectionalLightActor_3",
       "RootComponent" : {
         "Children" : [],
         "ClassName" : "UDirectionalLightComponent",
-        "ObjectName" : "UDirectionalLightComponent_4",
+        "ObjectName" : "UDirectionalLightComponent_3",
         "Properties" : {
           "Cast Shadows" : false,
           "Color" : [1.000000, 1.000000, 1.000000, 1.000000],
@@ -168,16 +168,16 @@
           "bTickEnable" : true
         }
       },
-      "UUID" : 12777,
+      "UUID" : 13732,
       "bVisible" : true
     }, {
       "ClassName" : "AAmbientLightActor",
       "NonSceneComponents" : [],
-      "ObjectName" : "AAmbientLightActor_3",
+      "ObjectName" : "AAmbientLightActor_2",
       "RootComponent" : {
         "Children" : [],
         "ClassName" : "UAmbientLightComponent",
-        "ObjectName" : "UAmbientLightComponent_3",
+        "ObjectName" : "UAmbientLightComponent_2",
         "Properties" : {
           "Cast Shadows" : false,
           "Color" : [1.000000, 1.000000, 1.000000, 1.000000],
@@ -195,13 +195,13 @@
           "bTickEnable" : true
         }
       },
-      "UUID" : 12782,
+      "UUID" : 13737,
       "bVisible" : true
     }, {
       "ClassName" : "APointLightActor",
       "NonSceneComponents" : [{
           "ClassName" : "UPendulumMovementComponent",
-          "ObjectName" : "UPendulumMovementComponent_7",
+          "ObjectName" : "UPendulumMovementComponent_4",
           "Properties" : {
             "Amplitude (deg)" : 30.000000,
             "Angle Offset (deg)" : 0.000000,
@@ -214,12 +214,12 @@
             "bTickEnable" : true
           }
         }],
-      "ObjectName" : "APointLightActor_2006",
+      "ObjectName" : "APointLightActor_2005",
       "RootComponent" : {
         "Children" : [{
             "Children" : [],
             "ClassName" : "UPointLightComponent",
-            "ObjectName" : "UPointLightComponent_2009",
+            "ObjectName" : "UPointLightComponent_2007",
             "Properties" : {
               "AttenuationRadius" : 5.000000,
               "Cast Shadows" : true,
@@ -240,7 +240,7 @@
             }
           }],
         "ClassName" : "UPointLightComponent",
-        "ObjectName" : "UPointLightComponent_2008",
+        "ObjectName" : "UPointLightComponent_2006",
         "Properties" : {
           "AttenuationRadius" : 3.000000,
           "Cast Shadows" : true,
@@ -260,13 +260,13 @@
           "bTickEnable" : true
         }
       },
-      "UUID" : 12786,
+      "UUID" : 13741,
       "bVisible" : true
     }, {
       "ClassName" : "ASpotLightActor",
       "NonSceneComponents" : [{
           "ClassName" : "UPendulumMovementComponent",
-          "ObjectName" : "UPendulumMovementComponent_8",
+          "ObjectName" : "UPendulumMovementComponent_5",
           "Properties" : {
             "Amplitude (deg)" : 30.000000,
             "Angle Offset (deg)" : 0.000000,
@@ -279,11 +279,11 @@
             "bTickEnable" : true
           }
         }],
-      "ObjectName" : "ASpotLightActor_2",
+      "ObjectName" : "ASpotLightActor_1",
       "RootComponent" : {
         "Children" : [],
         "ClassName" : "USpotLightComponent",
-        "ObjectName" : "USpotLightComponent_2",
+        "ObjectName" : "USpotLightComponent_1",
         "Properties" : {
           "AttenuationRadius" : 6.000000,
           "Cast Shadows" : true,
@@ -305,35 +305,35 @@
           "bTickEnable" : true
         }
       },
-      "UUID" : 12793,
+      "UUID" : 13748,
       "bVisible" : true
     }],
   "ClassName" : "UWorld",
   "ContextHandle" : "Default",
   "ContextName" : "Default",
   "Primitives" : {
-    "12757" : {
+    "13712" : {
       "Location" : [0.000000, 0.000000, -1.500000],
       "ObjStaticMeshAsset" : "",
       "Rotation" : [0.000000, -0.000000, 0.000000],
       "Scale" : [100.000000, 100.000000, 1.000000],
       "Type" : "StaticMeshComp"
     },
-    "12760" : {
+    "13715" : {
       "Location" : [2.432192, -2.341406, 1.097169],
       "ObjStaticMeshAsset" : "",
       "Rotation" : [0.000000, -0.000000, 0.000000],
       "Scale" : [1.000000, 1.000000, 1.000000],
       "Type" : "StaticMeshComp"
     },
-    "12764" : {
+    "13719" : {
       "Location" : [-1.321529, 2.017730, 0.534665],
       "ObjStaticMeshAsset" : "",
       "Rotation" : [0.000000, -0.000000, 0.000000],
       "Scale" : [1.000000, 1.000000, 1.000000],
       "Type" : "StaticMeshComp"
     },
-    "12768" : {
+    "13723" : {
       "Location" : [-2.350486, -8.914331, 0.492935],
       "ObjStaticMeshAsset" : "",
       "Rotation" : [0.000000, -0.000000, 0.000000],

@@ -2,12 +2,12 @@
   "Actors" : [{
       "ClassName" : "AStaticMeshActor",
       "NonSceneComponents" : [],
-      "ObjectName" : "AStaticMeshActor_1458",
-      "PrimitiveKey" : "17036",
+      "ObjectName" : "AStaticMeshActor_1454",
+      "PrimitiveKey" : "18320",
       "RootComponent" : {
         "Children" : [],
         "ClassName" : "UStaticMeshComponent",
-        "ObjectName" : "UStaticMeshComponent_2934",
+        "ObjectName" : "UStaticMeshComponent_2926",
         "Properties" : {
           "Cast Shadow" : true,
           "Generates Overlap Event" : 2,
@@ -23,13 +23,13 @@
           "bTickEnable" : true
         }
       },
-      "UUID" : 17036,
+      "UUID" : 18320,
       "bVisible" : true
     }, {
       "ClassName" : "AStaticMeshActor",
       "NonSceneComponents" : [{
           "ClassName" : "URotatingMovementComponent",
-          "ObjectName" : "URotatingMovementComponent_14",
+          "ObjectName" : "URotatingMovementComponent_13",
           "Properties" : {
             "Auto Register Updated" : true,
             "Pivot Translation" : [0.000000, 0.000000, 0.000000],
@@ -40,14 +40,14 @@
             "bTickEnable" : true
           }
         }],
-      "ObjectName" : "AStaticMeshActor_1459",
-      "PrimitiveKey" : "17039",
+      "ObjectName" : "AStaticMeshActor_1455",
+      "PrimitiveKey" : "18323",
       "RootComponent" : {
         "Children" : [{
             "Children" : [{
                 "Children" : [],
                 "ClassName" : "UPointLightComponent",
-                "ObjectName" : "UPointLightComponent_2740",
+                "ObjectName" : "UPointLightComponent_2738",
                 "Properties" : {
                   "AttenuationRadius" : 10.940000,
                   "Cast Shadows" : true,
@@ -68,7 +68,7 @@
                 }
               }],
             "ClassName" : "USceneComponent",
-            "ObjectName" : "USceneComponent_4217",
+            "ObjectName" : "USceneComponent_4207",
             "Properties" : {
               "Location" : [0.000000, 0.000000, 0.000000],
               "Rotation" : [0.000000, 0.000000, 0.000000],
@@ -78,7 +78,7 @@
             }
           }],
         "ClassName" : "UStaticMeshComponent",
-        "ObjectName" : "UStaticMeshComponent_2935",
+        "ObjectName" : "UStaticMeshComponent_2927",
         "Properties" : {
           "Cast Shadow" : true,
           "Generates Overlap Event" : 2,
@@ -94,17 +94,17 @@
           "bTickEnable" : true
         }
       },
-      "UUID" : 17039,
+      "UUID" : 18323,
       "bVisible" : true
     }, {
       "ClassName" : "AStaticMeshActor",
       "NonSceneComponents" : [],
-      "ObjectName" : "AStaticMeshActor_1460",
-      "PrimitiveKey" : "17042",
+      "ObjectName" : "AStaticMeshActor_1456",
+      "PrimitiveKey" : "18326",
       "RootComponent" : {
         "Children" : [],
         "ClassName" : "UStaticMeshComponent",
-        "ObjectName" : "UStaticMeshComponent_2936",
+        "ObjectName" : "UStaticMeshComponent_2928",
         "Properties" : {
           "Cast Shadow" : true,
           "Generates Overlap Event" : 2,
@@ -120,17 +120,17 @@
           "bTickEnable" : true
         }
       },
-      "UUID" : 17042,
+      "UUID" : 18326,
       "bVisible" : true
     }, {
       "ClassName" : "AStaticMeshActor",
       "NonSceneComponents" : [],
-      "ObjectName" : "AStaticMeshActor_1461",
-      "PrimitiveKey" : "17045",
+      "ObjectName" : "AStaticMeshActor_1457",
+      "PrimitiveKey" : "18329",
       "RootComponent" : {
         "Children" : [],
         "ClassName" : "UStaticMeshComponent",
-        "ObjectName" : "UStaticMeshComponent_2937",
+        "ObjectName" : "UStaticMeshComponent_2929",
         "Properties" : {
           "Cast Shadow" : true,
           "Generates Overlap Event" : 2,
@@ -146,17 +146,17 @@
           "bTickEnable" : true
         }
       },
-      "UUID" : 17045,
+      "UUID" : 18329,
       "bVisible" : true
     }, {
       "ClassName" : "AStaticMeshActor",
       "NonSceneComponents" : [],
-      "ObjectName" : "AStaticMeshActor_1462",
-      "PrimitiveKey" : "17049",
+      "ObjectName" : "AStaticMeshActor_1458",
+      "PrimitiveKey" : "18333",
       "RootComponent" : {
         "Children" : [],
         "ClassName" : "UStaticMeshComponent",
-        "ObjectName" : "UStaticMeshComponent_2938",
+        "ObjectName" : "UStaticMeshComponent_2930",
         "Properties" : {
           "Cast Shadow" : true,
           "Generates Overlap Event" : 2,
@@ -172,17 +172,17 @@
           "bTickEnable" : true
         }
       },
-      "UUID" : 17049,
+      "UUID" : 18333,
       "bVisible" : true
     }, {
       "ClassName" : "AStaticMeshActor",
       "NonSceneComponents" : [],
-      "ObjectName" : "AStaticMeshActor_1463",
-      "PrimitiveKey" : "17052",
+      "ObjectName" : "AStaticMeshActor_1459",
+      "PrimitiveKey" : "18336",
       "RootComponent" : {
         "Children" : [],
         "ClassName" : "UStaticMeshComponent",
-        "ObjectName" : "UStaticMeshComponent_2939",
+        "ObjectName" : "UStaticMeshComponent_2931",
         "Properties" : {
           "Cast Shadow" : true,
           "Generates Overlap Event" : 2,
@@ -198,17 +198,17 @@
           "bTickEnable" : true
         }
       },
-      "UUID" : 17052,
+      "UUID" : 18336,
       "bVisible" : true
     }, {
       "ClassName" : "AStaticMeshActor",
       "NonSceneComponents" : [],
-      "ObjectName" : "AStaticMeshActor_1464",
-      "PrimitiveKey" : "17055",
+      "ObjectName" : "AStaticMeshActor_1460",
+      "PrimitiveKey" : "18339",
       "RootComponent" : {
         "Children" : [],
         "ClassName" : "UStaticMeshComponent",
-        "ObjectName" : "UStaticMeshComponent_2940",
+        "ObjectName" : "UStaticMeshComponent_2932",
         "Properties" : {
           "Cast Shadow" : true,
           "Generates Overlap Event" : 2,
@@ -224,13 +224,13 @@
           "bTickEnable" : true
         }
       },
-      "UUID" : 17055,
+      "UUID" : 18339,
       "bVisible" : true
     }, {
       "ClassName" : "AStaticMeshActor",
       "NonSceneComponents" : [{
           "ClassName" : "URotatingMovementComponent",
-          "ObjectName" : "URotatingMovementComponent_15",
+          "ObjectName" : "URotatingMovementComponent_14",
           "Properties" : {
             "Auto Register Updated" : true,
             "Pivot Translation" : [0.000000, 0.000000, 0.000000],
@@ -241,12 +241,12 @@
             "bTickEnable" : true
           }
         }],
-      "ObjectName" : "AStaticMeshActor_1465",
-      "PrimitiveKey" : "17058",
+      "ObjectName" : "AStaticMeshActor_1461",
+      "PrimitiveKey" : "18342",
       "RootComponent" : {
         "Children" : [],
         "ClassName" : "UStaticMeshComponent",
-        "ObjectName" : "UStaticMeshComponent_2941",
+        "ObjectName" : "UStaticMeshComponent_2933",
         "Properties" : {
           "Cast Shadow" : true,
           "Generates Overlap Event" : 2,
@@ -262,17 +262,17 @@
           "bTickEnable" : true
         }
       },
-      "UUID" : 17058,
+      "UUID" : 18342,
       "bVisible" : true
     }, {
       "ClassName" : "AStaticMeshActor",
       "NonSceneComponents" : [],
-      "ObjectName" : "AStaticMeshActor_1466",
-      "PrimitiveKey" : "17062",
+      "ObjectName" : "AStaticMeshActor_1462",
+      "PrimitiveKey" : "18346",
       "RootComponent" : {
         "Children" : [],
         "ClassName" : "UStaticMeshComponent",
-        "ObjectName" : "UStaticMeshComponent_2942",
+        "ObjectName" : "UStaticMeshComponent_2934",
         "Properties" : {
           "Cast Shadow" : true,
           "Generates Overlap Event" : 2,
@@ -288,17 +288,17 @@
           "bTickEnable" : true
         }
       },
-      "UUID" : 17062,
+      "UUID" : 18346,
       "bVisible" : true
     }, {
       "ClassName" : "AStaticMeshActor",
       "NonSceneComponents" : [],
-      "ObjectName" : "AStaticMeshActor_1467",
-      "PrimitiveKey" : "17065",
+      "ObjectName" : "AStaticMeshActor_1463",
+      "PrimitiveKey" : "18349",
       "RootComponent" : {
         "Children" : [],
         "ClassName" : "UStaticMeshComponent",
-        "ObjectName" : "UStaticMeshComponent_2943",
+        "ObjectName" : "UStaticMeshComponent_2935",
         "Properties" : {
           "Cast Shadow" : true,
           "Generates Overlap Event" : 2,
@@ -314,17 +314,17 @@
           "bTickEnable" : true
         }
       },
-      "UUID" : 17065,
+      "UUID" : 18349,
       "bVisible" : true
     }, {
       "ClassName" : "AStaticMeshActor",
       "NonSceneComponents" : [],
-      "ObjectName" : "AStaticMeshActor_1468",
-      "PrimitiveKey" : "17068",
+      "ObjectName" : "AStaticMeshActor_1464",
+      "PrimitiveKey" : "18352",
       "RootComponent" : {
         "Children" : [],
         "ClassName" : "UStaticMeshComponent",
-        "ObjectName" : "UStaticMeshComponent_2930",
+        "ObjectName" : "UStaticMeshComponent_2922",
         "Properties" : {
           "Cast Shadow" : true,
           "Generates Overlap Event" : 2,
@@ -340,13 +340,13 @@
           "bTickEnable" : true
         }
       },
-      "UUID" : 17068,
+      "UUID" : 18352,
       "bVisible" : true
     }, {
       "ClassName" : "AStaticMeshActor",
       "NonSceneComponents" : [{
           "ClassName" : "UPendulumMovementComponent",
-          "ObjectName" : "UPendulumMovementComponent_10",
+          "ObjectName" : "UPendulumMovementComponent_7",
           "Properties" : {
             "Amplitude (deg)" : 72.000000,
             "Angle Offset (deg)" : 0.000000,
@@ -359,13 +359,13 @@
             "bTickEnable" : true
           }
         }],
-      "ObjectName" : "AStaticMeshActor_1469",
-      "PrimitiveKey" : "17071",
+      "ObjectName" : "AStaticMeshActor_1465",
+      "PrimitiveKey" : "18355",
       "RootComponent" : {
         "Children" : [{
             "Children" : [],
             "ClassName" : "USpotLightComponent",
-            "ObjectName" : "USpotLightComponent_12",
+            "ObjectName" : "USpotLightComponent_11",
             "Properties" : {
               "AttenuationRadius" : 14.440000,
               "Cast Shadows" : true,
@@ -388,7 +388,7 @@
             }
           }],
         "ClassName" : "UStaticMeshComponent",
-        "ObjectName" : "UStaticMeshComponent_2931",
+        "ObjectName" : "UStaticMeshComponent_2923",
         "Properties" : {
           "Cast Shadow" : true,
           "Generates Overlap Event" : 2,
@@ -404,17 +404,17 @@
           "bTickEnable" : true
         }
       },
-      "UUID" : 17071,
+      "UUID" : 18355,
       "bVisible" : true
     }, {
       "ClassName" : "AStaticMeshActor",
       "NonSceneComponents" : [],
-      "ObjectName" : "AStaticMeshActor_1470",
-      "PrimitiveKey" : "17074",
+      "ObjectName" : "AStaticMeshActor_1466",
+      "PrimitiveKey" : "18358",
       "RootComponent" : {
         "Children" : [],
         "ClassName" : "UStaticMeshComponent",
-        "ObjectName" : "UStaticMeshComponent_2932",
+        "ObjectName" : "UStaticMeshComponent_2924",
         "Properties" : {
           "Cast Shadow" : true,
           "Generates Overlap Event" : 2,
@@ -430,17 +430,17 @@
           "bTickEnable" : true
         }
       },
-      "UUID" : 17074,
+      "UUID" : 18358,
       "bVisible" : true
     }, {
       "ClassName" : "AStaticMeshActor",
       "NonSceneComponents" : [],
-      "ObjectName" : "AStaticMeshActor_1471",
-      "PrimitiveKey" : "17077",
+      "ObjectName" : "AStaticMeshActor_1467",
+      "PrimitiveKey" : "18361",
       "RootComponent" : {
         "Children" : [],
         "ClassName" : "UStaticMeshComponent",
-        "ObjectName" : "UStaticMeshComponent_2933",
+        "ObjectName" : "UStaticMeshComponent_2925",
         "Properties" : {
           "Cast Shadow" : true,
           "Generates Overlap Event" : 2,
@@ -456,147 +456,147 @@
           "bTickEnable" : true
         }
       },
-      "UUID" : 17077,
+      "UUID" : 18361,
       "bVisible" : true
     }, {
       "ClassName" : "AAmbientLightActor",
       "NonSceneComponents" : [],
-      "ObjectName" : "AAmbientLightActor_5",
-      "UUID" : 17100,
+      "ObjectName" : "AAmbientLightActor_4",
+      "UUID" : 18384,
       "bVisible" : true
     }, {
       "ClassName" : "ADirectionalLightActor",
       "NonSceneComponents" : [],
-      "ObjectName" : "ADirectionalLightActor_5",
-      "UUID" : 17104,
+      "ObjectName" : "ADirectionalLightActor_4",
+      "UUID" : 18388,
       "bVisible" : true
     }, {
       "ClassName" : "APointLightActor",
       "NonSceneComponents" : [],
-      "ObjectName" : "APointLightActor_2727",
-      "UUID" : 17108,
+      "ObjectName" : "APointLightActor_2726",
+      "UUID" : 18392,
+      "bVisible" : true
+    }, {
+      "ClassName" : "ASpotLightActor",
+      "NonSceneComponents" : [],
+      "ObjectName" : "ASpotLightActor_2",
+      "UUID" : 18396,
       "bVisible" : true
     }, {
       "ClassName" : "ASpotLightActor",
       "NonSceneComponents" : [],
       "ObjectName" : "ASpotLightActor_3",
-      "UUID" : 17112,
+      "UUID" : 18400,
       "bVisible" : true
     }, {
       "ClassName" : "ASpotLightActor",
       "NonSceneComponents" : [],
       "ObjectName" : "ASpotLightActor_4",
-      "UUID" : 17116,
-      "bVisible" : true
-    }, {
-      "ClassName" : "ASpotLightActor",
-      "NonSceneComponents" : [],
-      "ObjectName" : "ASpotLightActor_5",
-      "UUID" : 17120,
+      "UUID" : 18404,
       "bVisible" : true
     }, {
       "ClassName" : "APointLightActor",
       "NonSceneComponents" : [],
-      "ObjectName" : "APointLightActor_2728",
-      "UUID" : 17124,
+      "ObjectName" : "APointLightActor_2727",
+      "UUID" : 18408,
       "bVisible" : true
     }],
   "ClassName" : "UWorld",
   "ContextHandle" : "NewScene",
   "ContextName" : "New Scene",
   "Primitives" : {
-    "17036" : {
+    "18320" : {
       "Location" : [-27.285969, -8.479195, 6.645092],
       "ObjStaticMeshAsset" : "",
       "Rotation" : [0.000000, 90.000000, -0.000000],
       "Scale" : [6.387251, 9.600000, 1.000000],
       "Type" : "StaticMeshComp"
     },
-    "17039" : {
+    "18323" : {
       "Location" : [-17.666649, -9.214760, 6.712028],
       "ObjStaticMeshAsset" : "",
       "Rotation" : [0.000000, -0.000000, 0.000000],
       "Scale" : [1.000000, 1.000000, 1.000000],
       "Type" : "StaticMeshComp"
     },
-    "17042" : {
+    "18326" : {
       "Location" : [-20.373840, -7.445201, 13.142123],
       "ObjStaticMeshAsset" : "",
       "Rotation" : [179.999939, 5.142637, 179.999985],
       "Scale" : [9.700000, 9.600000, 1.000000],
       "Type" : "StaticMeshComp"
     },
-    "17045" : {
+    "18329" : {
       "Location" : [-20.961464, -30.304388, 4.625662],
       "ObjStaticMeshAsset" : "",
       "Rotation" : [0.000000, 90.000000, -0.000000],
       "Scale" : [80.000000, 80.000000, 80.000000],
       "Type" : "StaticMeshComp"
     },
-    "17049" : {
+    "18333" : {
       "Location" : [-17.175610, -30.697397, 0.000000],
       "ObjStaticMeshAsset" : "",
       "Rotation" : [0.000000, -0.000000, 0.000000],
       "Scale" : [9.700000, 9.600000, 1.000000],
       "Type" : "StaticMeshComp"
     },
-    "17052" : {
+    "18336" : {
       "Location" : [-17.175610, -8.479195, -1.756575],
       "ObjStaticMeshAsset" : "",
       "Rotation" : [0.000000, -0.000000, 0.000000],
       "Scale" : [100.000000, 100.000000, 1.000000],
       "Type" : "StaticMeshComp"
     },
-    "17055" : {
+    "18339" : {
       "Location" : [-27.746977, -31.055521, 9.036984],
       "ObjStaticMeshAsset" : "",
       "Rotation" : [0.000000, 90.000000, 179.999985],
       "Scale" : [9.700000, 9.600000, 1.000000],
       "Type" : "StaticMeshComp"
     },
-    "17058" : {
+    "18342" : {
       "Location" : [-17.095200, 40.186535, 3.537951],
       "ObjStaticMeshAsset" : "",
       "Rotation" : [0.000000, -0.000000, 0.000000],
       "Scale" : [3.000000, 3.000000, 3.000000],
       "Type" : "StaticMeshComp"
     },
-    "17062" : {
+    "18346" : {
       "Location" : [-17.175610, 39.426136, 0.000000],
       "ObjStaticMeshAsset" : "",
       "Rotation" : [0.000000, -0.000000, 0.000000],
       "Scale" : [9.700000, 9.600000, 1.000000],
       "Type" : "StaticMeshComp"
     },
-    "17065" : {
+    "18349" : {
       "Location" : [-27.746977, 39.815300, 9.036984],
       "ObjStaticMeshAsset" : "",
       "Rotation" : [0.000000, 90.000000, -0.000000],
       "Scale" : [9.700001, 9.600000, 1.000000],
       "Type" : "StaticMeshComp"
     },
-    "17068" : {
+    "18352" : {
       "Location" : [-17.175610, 18.285219, 0.000000],
       "ObjStaticMeshAsset" : "",
       "Rotation" : [0.000000, -0.000000, 0.000000],
       "Scale" : [9.700000, 9.600000, 1.000000],
       "Type" : "StaticMeshComp"
     },
-    "17071" : {
+    "18355" : {
       "Location" : [-17.595783, 18.985390, 10.085756],
       "ObjStaticMeshAsset" : "",
       "Rotation" : [0.000000, -0.000000, 0.000000],
       "Scale" : [1.000000, 1.000000, 1.000000],
       "Type" : "StaticMeshComp"
     },
-    "17074" : {
+    "18358" : {
       "Location" : [-27.746977, 18.285219, 9.036984],
       "ObjStaticMeshAsset" : "",
       "Rotation" : [0.000000, 90.000000, -0.000000],
       "Scale" : [9.700001, 9.600000, 1.000000],
       "Type" : "StaticMeshComp"
     },
-    "17077" : {
+    "18361" : {
       "Location" : [-17.175610, -8.479195, 0.000000],
       "ObjStaticMeshAsset" : "",
       "Rotation" : [0.000000, -0.000000, 0.000000],

@@ -130,18 +130,6 @@
       "UUID" : 179,
       "bVisible" : true
     }, {
-      "ClassName" : "AGameModeBase",
-      "NonSceneComponents" : [],
-      "ObjectName" : "AGameModeBase_1",
-      "UUID" : 166,
-      "bVisible" : true
-    }, {
-      "ClassName" : "AGameModeBase",
-      "NonSceneComponents" : [],
-      "ObjectName" : "AGameModeBase_1",
-      "UUID" : 169,
-      "bVisible" : true
-    }, {
       "ClassName" : "ADirectionalLightActor",
       "NonSceneComponents" : [{
           "ClassName" : "UPendulumMovementComponent",
