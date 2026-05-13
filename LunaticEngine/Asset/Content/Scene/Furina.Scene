@@ -44,7 +44,7 @@
           "Is Collidable" : true,
           "Location" : [0.217786, -0.565813, 0.012540],
           "Mobility" : 2,
-          "Rotation" : [-0.000000, 22.122913, 0.000000],
+          "Rotation" : [0.000000, 22.122910, 0.000000],
           "Scale" : [0.250000, 0.250000, 0.250000],
           "Static Mesh" : "Asset/Content/Model/BasicShape/cube.obj",
           "Two Sided Shadow" : false,
@@ -166,7 +166,7 @@
           "Is Collidable" : true,
           "Location" : [-0.769863, -1.737929, 0.078027],
           "Mobility" : 2,
-          "Rotation" : [4.568020, 28.453810, 0.506256],
+          "Rotation" : [4.568024, 28.453812, 0.506256],
           "Scale" : [1.000000, 1.000000, 1.000000],
           "Selected Bone Index" : -1,
           "Show Bone Names" : false,
@@ -291,7 +291,7 @@
           "Is Collidable" : true,
           "Location" : [1.604801, -0.804011, 0.063264],
           "Mobility" : 2,
-          "Rotation" : [-0.883637, 22.122915, -0.000000],
+          "Rotation" : [-0.883636, 22.122910, 0.000000],
           "Scale" : [1.000000, 1.000000, 1.000000],
           "Selected Bone Index" : -1,
           "Show Bone Names" : false,
@@ -416,7 +416,7 @@
           "Is Collidable" : true,
           "Location" : [0.230874, -0.570481, 0.278133],
           "Mobility" : 2,
-          "Rotation" : [-0.000000, 22.122913, 0.000000],
+          "Rotation" : [0.000000, 22.122910, 0.000000],
           "Scale" : [1.000000, 1.000000, 1.000000],
           "Selected Bone Index" : -1,
           "Show Bone Names" : false,
@@ -467,6 +467,28 @@
               "Is Collidable" : true,
               "Location" : [0.000000, 0.000000, 0.000000],
               "Mobility" : 2,
+              "Rotation" : [0.000000, 0.000000, 0.000000],
+              "Scale" : [1.000000, 1.000000, 1.000000],
+              "Texture" : {
+                "Path" : "Asset/Editor/Icons/Actors/S_SpotLight_256x.PNG"
+              },
+              "Two Sided Shadow" : false,
+              "Visible" : false,
+              "Width" : 1.000000
+            },
+            "bHiddenInComponentTree" : true
+          }, {
+            "Children" : [],
+            "ClassName" : "UBillboardComponent",
+            "ObjectName" : "UBillboardComponent_2",
+            "Properties" : {
+              "Billboard" : true,
+              "Cast Shadow" : true,
+              "Generates Overlap Event" : 2,
+              "Height" : 1.000000,
+              "Is Collidable" : true,
+              "Location" : [0.000000, 0.000000, 0.000000],
+              "Mobility" : 2,
               "Rotation" : [-0.000000, 0.000000, 0.000000],
               "Scale" : [1.000000, 1.000000, 1.000000],
               "Texture" : {
@@ -483,13 +505,13 @@
         "Properties" : {
           "AttenuationRadius" : 9.730000,
           "Cast Shadows" : true,
-          "Color" : [1.000000, 0.575646, 0.000000, 1.000000],
+          "Color" : [1.000000, 0.243542, 0.000000, 1.000000],
           "InnerConeAngle" : 20.000000,
           "Intensity" : 1.000000,
           "LightFalloffExponent" : 1.000000,
-          "Location" : [-0.213562, -4.484149, 1.543490],
+          "Location" : [3.373311, 2.041882, 1.543490],
           "OuterConeAngle" : 40.000000,
-          "Rotation" : [24.589783, 86.867828, -77.862305],
+          "Rotation" : [24.589787, -145.804047, -77.862312],
           "Scale" : [1.000000, 1.000000, 1.000000],
           "Shadow Bias" : 0.000100,
           "Shadow Normal Bias" : 0.002000,
@@ -540,6 +562,28 @@
               "Is Collidable" : true,
               "Location" : [0.000000, 0.000000, 0.000000],
               "Mobility" : 2,
+              "Rotation" : [0.000000, 0.000000, 0.000000],
+              "Scale" : [1.000000, 1.000000, 1.000000],
+              "Texture" : {
+                "Path" : "Asset/Editor/Icons/Actors/S_SpotLight_256x.PNG"
+              },
+              "Two Sided Shadow" : false,
+              "Visible" : false,
+              "Width" : 1.000000
+            },
+            "bHiddenInComponentTree" : true
+          }, {
+            "Children" : [],
+            "ClassName" : "UBillboardComponent",
+            "ObjectName" : "UBillboardComponent_5",
+            "Properties" : {
+              "Billboard" : true,
+              "Cast Shadow" : true,
+              "Generates Overlap Event" : 2,
+              "Height" : 1.000000,
+              "Is Collidable" : true,
+              "Location" : [0.000000, 0.000000, 0.000000],
+              "Mobility" : 2,
               "Rotation" : [-0.000000, 0.000000, 0.000000],
               "Scale" : [1.000000, 1.000000, 1.000000],
               "Texture" : {
@@ -560,9 +604,9 @@
           "InnerConeAngle" : 36.200001,
           "Intensity" : 1.000000,
           "LightFalloffExponent" : 1.000000,
-          "Location" : [-0.260975, 1.434753, 1.700076],
+          "Location" : [-4.030410, -0.363683, 1.700076],
           "OuterConeAngle" : 53.900002,
-          "Rotation" : [42.559906, -78.172249, 114.207184],
+          "Rotation" : [42.559898, -16.734165, 114.207130],
           "Scale" : [1.000000, 1.000000, 1.000000],
           "Shadow Bias" : 0.000100,
           "Shadow Normal Bias" : 0.002000,
@@ -600,7 +644,7 @@
           "Is Collidable" : true,
           "Location" : [-10.177179, 11.294236, -0.202610],
           "Mobility" : 2,
-          "Rotation" : [0.000001, -4.195946, 15.348600],
+          "Rotation" : [0.000000, -4.195953, 15.348602],
           "Scale" : [0.300000, 0.300000, 0.300000],
           "Selected Bone Index" : -1,
           "Show Bone Names" : false,
@@ -629,7 +673,7 @@
               "Is Collidable" : true,
               "Location" : [0.000000, 0.000000, 0.000000],
               "Mobility" : 2,
-              "Rotation" : [-0.000000, 0.000000, 0.000000],
+              "Rotation" : [0.000000, 0.000000, 0.000000],
               "Scale" : [1.000000, 1.000000, 1.000000],
               "Texture" : {
                 "Path" : "Asset/Editor/Icons/Actors/S_SpotLight_256x.PNG"
@@ -643,6 +687,28 @@
             "Children" : [],
             "ClassName" : "UBillboardComponent",
             "ObjectName" : "UBillboardComponent_3",
+            "Properties" : {
+              "Billboard" : true,
+              "Cast Shadow" : true,
+              "Generates Overlap Event" : 2,
+              "Height" : 1.000000,
+              "Is Collidable" : true,
+              "Location" : [0.000000, 0.000000, 0.000000],
+              "Mobility" : 2,
+              "Rotation" : [0.000000, 0.000000, 0.000000],
+              "Scale" : [1.000000, 1.000000, 1.000000],
+              "Texture" : {
+                "Path" : "Asset/Editor/Icons/Actors/S_SpotLight_256x.PNG"
+              },
+              "Two Sided Shadow" : false,
+              "Visible" : false,
+              "Width" : 1.000000
+            },
+            "bHiddenInComponentTree" : true
+          }, {
+            "Children" : [],
+            "ClassName" : "UBillboardComponent",
+            "ObjectName" : "UBillboardComponent_8",
             "Properties" : {
               "Billboard" : true,
               "Cast Shadow" : true,
@@ -673,7 +739,7 @@
           "LightFalloffExponent" : 1.000000,
           "Location" : [-10.147526, -0.519001, 8.695598],
           "OuterConeAngle" : 40.000000,
-          "Rotation" : [24.589787, 86.867828, -77.862305],
+          "Rotation" : [24.589783, 86.867828, -77.862305],
           "Scale" : [1.000000, 1.000000, 1.000000],
           "Shadow Bias" : 0.000100,
           "Shadow Normal Bias" : 0.002000,
@@ -702,7 +768,7 @@
               "Is Collidable" : true,
               "Location" : [0.000000, 0.000000, 0.000000],
               "Mobility" : 2,
-              "Rotation" : [-0.000000, 0.000000, 0.000000],
+              "Rotation" : [0.000000, 0.000000, 0.000000],
               "Scale" : [1.000000, 1.000000, 1.000000],
               "Texture" : {
                 "Path" : "Asset/Editor/Icons/Actors/S_SpotLight_256x.PNG"
@@ -716,6 +782,28 @@
             "Children" : [],
             "ClassName" : "UBillboardComponent",
             "ObjectName" : "UBillboardComponent_3",
+            "Properties" : {
+              "Billboard" : true,
+              "Cast Shadow" : true,
+              "Generates Overlap Event" : 2,
+              "Height" : 1.000000,
+              "Is Collidable" : true,
+              "Location" : [0.000000, 0.000000, 0.000000],
+              "Mobility" : 2,
+              "Rotation" : [0.000000, 0.000000, 0.000000],
+              "Scale" : [1.000000, 1.000000, 1.000000],
+              "Texture" : {
+                "Path" : "Asset/Editor/Icons/Actors/S_SpotLight_256x.PNG"
+              },
+              "Two Sided Shadow" : false,
+              "Visible" : false,
+              "Width" : 1.000000
+            },
+            "bHiddenInComponentTree" : true
+          }, {
+            "Children" : [],
+            "ClassName" : "UBillboardComponent",
+            "ObjectName" : "UBillboardComponent_11",
             "Properties" : {
               "Billboard" : true,
               "Cast Shadow" : true,
@@ -746,7 +834,7 @@
           "LightFalloffExponent" : 1.000000,
           "Location" : [-1.664491, 1.585431, 8.795598],
           "OuterConeAngle" : 52.200001,
-          "Rotation" : [24.768721, 132.363144, -68.875519],
+          "Rotation" : [24.768723, 132.363159, -68.875519],
           "Scale" : [1.000000, 1.000000, 1.000000],
           "Shadow Bias" : 0.000100,
           "Shadow Normal Bias" : 0.002000,
@@ -775,7 +863,7 @@
               "Is Collidable" : true,
               "Location" : [0.000000, 0.000000, 0.000000],
               "Mobility" : 2,
-              "Rotation" : [-0.000000, 0.000000, 0.000000],
+              "Rotation" : [0.000000, 0.000000, 0.000000],
               "Scale" : [1.000000, 1.000000, 1.000000],
               "Texture" : {
                 "Path" : "Asset/Editor/Icons/Actors/S_SpotLight_256x.PNG"
@@ -789,6 +877,28 @@
             "Children" : [],
             "ClassName" : "UBillboardComponent",
             "ObjectName" : "UBillboardComponent_3",
+            "Properties" : {
+              "Billboard" : true,
+              "Cast Shadow" : true,
+              "Generates Overlap Event" : 2,
+              "Height" : 1.000000,
+              "Is Collidable" : true,
+              "Location" : [0.000000, 0.000000, 0.000000],
+              "Mobility" : 2,
+              "Rotation" : [0.000000, 0.000000, 0.000000],
+              "Scale" : [1.000000, 1.000000, 1.000000],
+              "Texture" : {
+                "Path" : "Asset/Editor/Icons/Actors/S_SpotLight_256x.PNG"
+              },
+              "Two Sided Shadow" : false,
+              "Visible" : false,
+              "Width" : 1.000000
+            },
+            "bHiddenInComponentTree" : true
+          }, {
+            "Children" : [],
+            "ClassName" : "UBillboardComponent",
+            "ObjectName" : "UBillboardComponent_14",
             "Properties" : {
               "Billboard" : true,
               "Cast Shadow" : true,
@@ -819,7 +929,7 @@
           "LightFalloffExponent" : 1.000000,
           "Location" : [-4.444911, 5.433388, 2.302070],
           "OuterConeAngle" : 40.000000,
-          "Rotation" : [3.880303, 132.683731, -52.472496],
+          "Rotation" : [3.880310, 132.683716, -52.472496],
           "Scale" : [1.000000, 1.000000, 1.000000],
           "Shadow Bias" : 0.000100,
           "Shadow Normal Bias" : 0.002000,
@@ -848,7 +958,7 @@
               "Is Collidable" : true,
               "Location" : [0.000000, 0.000000, 0.000000],
               "Mobility" : 2,
-              "Rotation" : [-0.000000, 0.000000, 0.000000],
+              "Rotation" : [0.000000, 0.000000, 0.000000],
               "Scale" : [1.000000, 1.000000, 1.000000],
               "Texture" : {
                 "Path" : "Asset/Editor/Icons/Actors/S_SpotLight_256x.PNG"
@@ -862,6 +972,28 @@
             "Children" : [],
             "ClassName" : "UBillboardComponent",
             "ObjectName" : "UBillboardComponent_3",
+            "Properties" : {
+              "Billboard" : true,
+              "Cast Shadow" : true,
+              "Generates Overlap Event" : 2,
+              "Height" : 1.000000,
+              "Is Collidable" : true,
+              "Location" : [0.000000, 0.000000, 0.000000],
+              "Mobility" : 2,
+              "Rotation" : [0.000000, 0.000000, 0.000000],
+              "Scale" : [1.000000, 1.000000, 1.000000],
+              "Texture" : {
+                "Path" : "Asset/Editor/Icons/Actors/S_SpotLight_256x.PNG"
+              },
+              "Two Sided Shadow" : false,
+              "Visible" : false,
+              "Width" : 1.000000
+            },
+            "bHiddenInComponentTree" : true
+          }, {
+            "Children" : [],
+            "ClassName" : "UBillboardComponent",
+            "ObjectName" : "UBillboardComponent_17",
             "Properties" : {
               "Billboard" : true,
               "Cast Shadow" : true,
@@ -892,7 +1024,7 @@
           "LightFalloffExponent" : 1.000000,
           "Location" : [-10.670473, 5.533388, 2.402070],
           "OuterConeAngle" : 40.000000,
-          "Rotation" : [3.880303, 132.683731, -52.472496],
+          "Rotation" : [3.880310, 132.683716, -52.472496],
           "Scale" : [1.000000, 1.000000, 1.000000],
           "Shadow Bias" : 0.000100,
           "Shadow Normal Bias" : 0.002000,
@@ -912,9 +1044,9 @@
   "PerspectiveCamera" : {
     "FOV" : 1.047198,
     "FarClip" : 1000.000000,
-    "Location" : [1.783112, -2.685053, 0.875447],
+    "Location" : [1.501223, -2.169153, 0.880139],
     "NearClip" : 0.100000,
-    "Rotation" : [0.000000, -13.187412, 134.558289]
+    "Rotation" : [0.000000, -12.438139, 135.305511]
   },
   "Primitives" : {
     "552" : {
@@ -927,7 +1059,7 @@
     "567" : {
       "Location" : [0.217786, -0.565813, 0.012540],
       "ObjStaticMeshAsset" : "Asset/Content/Model/BasicShape/cube.obj",
-      "Rotation" : [0.000000, -0.000000, 22.122913],
+      "Rotation" : [0.000000, -0.000000, 22.122908],
       "Scale" : [0.250000, 0.250000, 0.250000],
       "Type" : "StaticMeshComp"
     }
